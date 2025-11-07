@@ -43,9 +43,18 @@
 ---
 
 ##  Principales hallazgos
+<img width="1318" height="1091" alt="Corelation" src="https://github.com/user-attachments/assets/0cd91858-d714-4f37-a114-da72da095893" />
+<img width="541" height="402" alt="Boxplot Contrato" src="https://github.com/user-attachments/assets/90865894-da76-4742-a75c-74135ebbc001" />
+<img width="560" height="402" alt="Gasto Cancelacion" src="https://github.com/user-attachments/assets/236a4615-abbb-4e90-a19f-ec675edbe247" />
+<img width="583" height="402" alt="Dispersion" src="https://github.com/user-attachments/assets/ab854c12-5ad9-47a1-9b26-1fc7a621eb28" />
+
+
 - Variables más influyentes: `tenure`, `Contract_Month-to-month`, `InternetService_Fiber optic`, `PaymentMethod_Electronic check`, `Charges.Total`.
 - **Regresión Logística** tuvo mejor recall, siendo útil para identificar clientes que podrían cancelar.
+  <img width="483" height="402" alt="Matriz Confusion" src="https://github.com/user-attachments/assets/d218af0b-c913-4206-ba94-c7d59351afca" />
+
 - **Random Forest** mostró mejor accuracy y precisión, pero con posible overfitting.
+<img width="472" height="402" alt="download" src="https://github.com/user-attachments/assets/2c12c793-3d91-4867-94a3-aa8284597bd1" />
 
 ---
 

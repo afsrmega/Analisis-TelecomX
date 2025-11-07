@@ -1,6 +1,6 @@
 
 ##  Contenido
-- **dataset.xlsx** → Base de datos de clientes con variables demográficas, de contrato y facturación. Exportado del primer Challenge.
+- **dataset.xlsx** → Base de datos de clientes con variables demográficas, de contrato y facturación. Exportado del Repositorio Analisis Preliminar TelecomX.
 - **notebook.ipynb** → Código en Python (Google Colab) para:
   - Carga y exploración de datos
   - Preprocesamiento (codificación de variables categóricas, normalización)
